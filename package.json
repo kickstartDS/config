@@ -1,0 +1,27 @@
+{
+  "name": "root",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kickstartDS/config.git",
+  "author": "ruhmesmeile GmbH <mail@ruhmesmeile.com> (https://ruhmesmeile.com)",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "format": "prettier -w ."
+  },
+  "devDependencies": {
+    "@auto-it/npm": "^10.29.3",
+    "@auto-it/released": "^10.29.3",
+    "auto": "^10.29.3",
+    "lerna": "^4.0.0",
+    "prettier": "^2.3.2"
+  },
+  "auto": {
+    "extends": "./packages/auto/package.json",
+    "author": "Jonas Ulrich <jonas.ulrich@ruhmesmeile.com>"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
+  }
+}
