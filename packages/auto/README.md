@@ -5,7 +5,9 @@
 ```
 npm install --save-dev auto @kickstartds/auto-config
 ```
+
 or
+
 ```
 yarn add --dev auto @kickstartds/auto-config
 ```

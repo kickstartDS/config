@@ -5,7 +5,9 @@
 ```
 npm install --save-dev stylelint @kickstartds/stylelint-config
 ```
+
 or
+
 ```
 yarn add --dev stylelint @kickstartds/stylelint-config
 ```
@@ -16,7 +18,7 @@ Create a `.stylelintrc.js` [config file](https://stylelint.io/user-guide/configu
 
 ```js
 module.exports = {
-  extends: '@kickstartds/stylelint-config',
+  extends: "@kickstartds/stylelint-config",
 };
 ```
 
