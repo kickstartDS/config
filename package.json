@@ -19,6 +19,7 @@
   },
   "auto": {
     "extends": "./packages/auto/package.json",
+    "baseBranch": "master",
     "author": "Jonas Ulrich <jonas.ulrich@ruhmesmeile.com>"
   },
   "publishConfig": {

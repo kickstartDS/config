@@ -6,7 +6,6 @@
   "homepage": "https://ruhmesmeile.com",
   "license": "MIT",
   "auto": {
-    "baseBranch": "master",
     "plugins": [
       "npm",
       "released"

@@ -5,7 +5,9 @@
 ```
 npm install --save-dev eslint @kickstartds/eslint-config
 ```
+
 or
+
 ```
 yarn add --dev eslint @kickstartds/eslint-config
 ```
@@ -16,7 +18,7 @@ Create a `.eslintrc.js` [config file](https://eslint.org/docs/user-guide/configu
 
 ```js
 module.exports = {
-  extends: '@kickstartds/eslint-config',
+  extends: "@kickstartds/eslint-config",
 };
 ```
 
