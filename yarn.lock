@@ -52,13 +52,33 @@
     typescript-memoize "^1.0.0-alpha.3"
     url-join "^4.0.0"
 
-"@auto-it/npm@10.31.0", "@auto-it/npm@^10.30.0":
+"@auto-it/npm@10.31.0":
   version "10.31.0"
   resolved "https://registry.yarnpkg.com/@auto-it/npm/-/npm-10.31.0.tgz#220aa1d28b61a4b82620f4b1513fad2b1a75d49d"
   integrity sha512-x2xKZnh2NNyiGBvWViJ5YBsKbZ2sMwPU3F2QKyvLxdx9RoYOUXdWiGPCvN/G4fEHQYIn0G+8NLfplvJZD9Ersg==
   dependencies:
     "@auto-it/core" "10.31.0"
     "@auto-it/package-json-utils" "10.31.0"
+    await-to-js "^3.0.0"
+    endent "^2.0.1"
+    env-ci "^5.0.1"
+    fp-ts "^2.5.3"
+    get-monorepo-packages "^1.1.0"
+    io-ts "^2.1.2"
+    registry-url "^5.1.0"
+    semver "^7.0.0"
+    tslib "2.1.0"
+    typescript-memoize "^1.0.0-alpha.3"
+    url-join "^4.0.0"
+    user-home "^2.0.0"
+
+"@auto-it/npm@^10.30.0":
+  version "10.30.0"
+  resolved "https://registry.yarnpkg.com/@auto-it/npm/-/npm-10.30.0.tgz#4faa85ef2db87581e02aae3b64c45ffcf0313e74"
+  integrity sha512-lElF6xesxf2XNgpEMd4dh7PyO9V/3S5Sjv9jxjKLQ9cLbM5kbgyulWCEtywijeGkNQkJSMaNYauE+fOjLqWRfA==
+  dependencies:
+    "@auto-it/core" "10.30.0"
+    "@auto-it/package-json-utils" "10.30.0"
     await-to-js "^3.0.0"
     endent "^2.0.1"
     env-ci "^5.0.1"
