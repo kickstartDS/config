@@ -52,13 +52,33 @@
     typescript-memoize "^1.0.0-alpha.3"
     url-join "^4.0.0"
 
-"@auto-it/npm@10.32.1", "@auto-it/npm@^10.30.0":
+"@auto-it/npm@10.32.1":
   version "10.32.1"
   resolved "https://registry.yarnpkg.com/@auto-it/npm/-/npm-10.32.1.tgz#8e350c4e15fb709e55622b8622b5c67e3fc3ad97"
   integrity sha512-TIm/ygvxKQLIJXc8+KTERefsFCMdM04+/5qK6bVROsi7fAnYU0vMcjOuG6B4aoZ6WF53Wd3uXKiGJero0j+lWQ==
   dependencies:
     "@auto-it/core" "10.32.1"
     "@auto-it/package-json-utils" "10.32.1"
+    await-to-js "^3.0.0"
+    endent "^2.0.1"
+    env-ci "^5.0.1"
+    fp-ts "^2.5.3"
+    get-monorepo-packages "^1.1.0"
+    io-ts "^2.1.2"
+    registry-url "^5.1.0"
+    semver "^7.0.0"
+    tslib "2.1.0"
+    typescript-memoize "^1.0.0-alpha.3"
+    url-join "^4.0.0"
+    user-home "^2.0.0"
+
+"@auto-it/npm@^10.30.0":
+  version "10.32.0"
+  resolved "https://registry.yarnpkg.com/@auto-it/npm/-/npm-10.32.0.tgz#ff0c70690ba007a9cd2338e5162b06d58092fc7a"
+  integrity sha512-sI3QVzZE9GVzzC5+ds39elC8EPk4RVgkXyPmat8Tp67pGh9haSJi3H2hXwijZVkrEmwC0PZcC0imEx+PRb8L+g==
+  dependencies:
+    "@auto-it/core" "10.32.0"
+    "@auto-it/package-json-utils" "10.32.0"
     await-to-js "^3.0.0"
     endent "^2.0.1"
     env-ci "^5.0.1"
@@ -80,25 +100,13 @@
     parse-author "^2.0.0"
     parse-github-url "1.0.2"
 
-"@auto-it/released@10.32.1":
+"@auto-it/released@10.32.1", "@auto-it/released@^10.30.0":
   version "10.32.1"
   resolved "https://registry.yarnpkg.com/@auto-it/released/-/released-10.32.1.tgz#b295344a0af9532c1a94d9906dc94982e0315c61"
   integrity sha512-MnJ3XG04It0uL7Ah8cmkFBpmYZx94vBYJP7C2o7sTgsDRwhIz1vmws6edk3BHvzIAcfDoq7x5mPZv8r/WTCECQ==
   dependencies:
     "@auto-it/bot-list" "10.32.1"
     "@auto-it/core" "10.32.1"
-    deepmerge "^4.0.0"
-    fp-ts "^2.5.3"
-    io-ts "^2.1.2"
-    tslib "2.1.0"
-
-"@auto-it/released@^10.30.0":
-  version "10.32.0"
-  resolved "https://registry.yarnpkg.com/@auto-it/released/-/released-10.32.0.tgz#2164fff6057b32db5921282b0166b282fd182a3b"
-  integrity sha512-7OfjcgdCz1otdH1JcsUOvbFQeQRyG7d6fv0G1bPUVoEo5wWzJGdcPrFTKQOmeypeyVyG2uMBnJMfUJkZDE77PQ==
-  dependencies:
-    "@auto-it/bot-list" "10.32.0"
-    "@auto-it/core" "10.32.0"
     deepmerge "^4.0.0"
     fp-ts "^2.5.3"
     io-ts "^2.1.2"
