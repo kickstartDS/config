@@ -1,10 +1,14 @@
 module.exports = {
+  customSyntax: "postcss-scss",
   plugins: [
     "stylelint-scss",
     "stylelint-order",
-    // "stylelint-selector-bem-pattern",
   ],
-  extends: ["stylelint-config-sass-guidelines", "stylelint-config-prettier"],
+  extends: [
+    "stylelint-config-standard-scss",
+    "stylelint-config-sass-guidelines",
+    "stylelint-config-prettier",
+  ],
   rules: {
     "order/order": [
       "custom-properties",
@@ -15,6 +19,11 @@ module.exports = {
     "order/properties-alphabetical-order": null,
     "scss/percent-placeholder-pattern": null,
     "scss/dollar-variable-pattern": null,
+    "scss/dollar-variable-empty-line-before": null,
+    "scss/double-slash-comment-empty-line-before": null,
+    "scss/operator-no-newline-after": null,
+    "scss/at-function-pattern": null,
+    "scss/at-rule-conditional-no-parentheses": null,
     "max-nesting-depth": 6,
     "selector-max-compound-selectors": 5,
     "color-named": null,
@@ -25,5 +34,13 @@ module.exports = {
         ignore: ["attribute"],
       },
     ],
+    "comment-empty-line-before": null,
+    "custom-property-pattern": null,
+    "color-function-notation": null, // TBD
+    "alpha-value-notation": null, // TBD
+    "rule-empty-line-before": null,
+    "keyframes-name-pattern": null, // TBD
+    "declaration-empty-line-before": null,
+    "rule-empty-line-before": null,
   },
 };

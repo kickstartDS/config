@@ -3,13 +3,13 @@
 ## Installation
 
 ```
-npm install --save-dev stylelint @kickstartds/stylelint-config
+npm install --save-dev stylelint postcss postcss-scss @kickstartds/stylelint-config
 ```
 
 or
 
 ```
-yarn add --dev stylelint @kickstartds/stylelint-config
+yarn add --dev stylelint postcss postcss-scss @kickstartds/stylelint-config
 ```
 
 ## Usage
