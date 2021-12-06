@@ -2,7 +2,6 @@ module.exports = {
   plugins: [
     "stylelint-scss",
     "stylelint-order",
-    // "stylelint-selector-bem-pattern",
   ],
   extends: [
     "stylelint-config-standard-scss",
