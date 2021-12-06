@@ -4,7 +4,11 @@ module.exports = {
     "stylelint-order",
     // "stylelint-selector-bem-pattern",
   ],
-  extends: ["stylelint-config-sass-guidelines", "stylelint-config-prettier"],
+  extends: [
+    "stylelint-config-standard-scss",
+    "stylelint-config-sass-guidelines",
+    "stylelint-config-prettier",
+  ],
   rules: {
     "order/order": [
       "custom-properties",
