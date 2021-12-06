@@ -1,3 +1,67 @@
+# (Mon Dec 06 2021)
+
+#### 💥 Breaking Change
+
+- `@kickstartds/stylelint-config@2.0.0`
+  - update stylelint to version 14 [#82](https://github.com/kickstartDS/config/pull/82) ([@lmestel](https://github.com/lmestel))
+
+#### ⚠️ Pushed to `master`
+
+- build: update dependabot config [skip-ci] ([@lmestel](https://github.com/lmestel))
+
+#### 🔩 Dependency Updates
+
+- build(deps-dev): bump prettier from 2.5.0 to 2.5.1 [#81](https://github.com/kickstartDS/config/pull/81) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @auto-it/released from 10.32.2 to 10.32.3 [#80](https://github.com/kickstartDS/config/pull/80) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump auto from 10.32.2 to 10.32.3 [#79](https://github.com/kickstartDS/config/pull/79) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump prettier from 2.4.1 to 2.5.0 [#78](https://github.com/kickstartDS/config/pull/78) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump eslint-plugin-import from 2.25.2 to 2.25.3 [#76](https://github.com/kickstartDS/config/pull/76) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @babel/eslint-parser from 7.16.0 to 7.16.3 [#74](https://github.com/kickstartDS/config/pull/74) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump eslint-plugin-import from 2.24.2 to 2.25.2 [#67](https://github.com/kickstartDS/config/pull/67) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @babel/core from 7.15.8 to 7.16.0 [#69](https://github.com/kickstartDS/config/pull/69) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @auto-it/npm from 10.32.1 to 10.32.2 [#70](https://github.com/kickstartDS/config/pull/70) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump auto from 10.32.1 to 10.32.2 [#72](https://github.com/kickstartDS/config/pull/72) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @typescript-eslint/eslint-plugin from 4.32.0 to 4.33.0 [#65](https://github.com/kickstartDS/config/pull/65) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @typescript-eslint/parser from 4.32.0 to 4.33.0 [#61](https://github.com/kickstartDS/config/pull/61) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @babel/core from 7.15.5 to 7.15.8 [#62](https://github.com/kickstartDS/config/pull/62) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @typescript-eslint/parser from 4.31.1 to 4.32.0 [#57](https://github.com/kickstartDS/config/pull/57) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @typescript-eslint/eslint-plugin from 4.31.1 to 4.32.0 [#59](https://github.com/kickstartDS/config/pull/59) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @auto-it/npm from 10.32.0 to 10.32.1 [#58](https://github.com/kickstartDS/config/pull/58) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump auto from 10.32.0 to 10.32.1 [#60](https://github.com/kickstartDS/config/pull/60) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @babel/eslint-parser from 7.15.4 to 7.15.7 [#45](https://github.com/kickstartDS/config/pull/45) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump stylelint-scss from 3.20.1 to 3.21.0 [#50](https://github.com/kickstartDS/config/pull/50) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @typescript-eslint/parser from 4.30.0 to 4.31.1 [#47](https://github.com/kickstartDS/config/pull/47) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump prettier from 2.4.0 to 2.4.1 [#52](https://github.com/kickstartDS/config/pull/52) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump auto from 10.31.0 to 10.32.0 [#51](https://github.com/kickstartDS/config/pull/51) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump prettier from 2.3.2 to 2.4.0 [#44](https://github.com/kickstartDS/config/pull/44) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @typescript-eslint/eslint-plugin from 4.29.3 to 4.30.0 [#38](https://github.com/kickstartDS/config/pull/38) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @typescript-eslint/parser from 4.29.3 to 4.30.0 [#40](https://github.com/kickstartDS/config/pull/40) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @babel/eslint-parser from 7.15.0 to 7.15.4 [#39](https://github.com/kickstartDS/config/pull/39) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @babel/core from 7.15.0 to 7.15.5 [#41](https://github.com/kickstartDS/config/pull/41) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump eslint-plugin-import from 2.24.1 to 2.24.2 [#36](https://github.com/kickstartDS/config/pull/36) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @typescript-eslint/eslint-plugin from 4.29.2 to 4.29.3 [#35](https://github.com/kickstartDS/config/pull/35) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @typescript-eslint/parser from 4.29.2 to 4.29.3 [#34](https://github.com/kickstartDS/config/pull/34) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump eslint-plugin-import from 2.24.0 to 2.24.1 [#33](https://github.com/kickstartDS/config/pull/33) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @typescript-eslint/parser from 4.29.1 to 4.29.2 [#32](https://github.com/kickstartDS/config/pull/32) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @typescript-eslint/eslint-plugin from 4.29.1 to 4.29.2 [#31](https://github.com/kickstartDS/config/pull/31) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @auto-it/released from 10.30.0 to 10.31.0 [#27](https://github.com/kickstartDS/config/pull/27) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump eslint-plugin-import from 2.23.4 to 2.24.0 [#25](https://github.com/kickstartDS/config/pull/25) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @babel/core from 7.14.8 to 7.15.0 [#24](https://github.com/kickstartDS/config/pull/24) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @typescript-eslint/eslint-plugin from 4.28.5 to 4.29.1 [#28](https://github.com/kickstartDS/config/pull/28) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump auto from 10.30.0 to 10.31.0 [#26](https://github.com/kickstartDS/config/pull/26) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @typescript-eslint/eslint-plugin from 4.28.4 to 4.28.5 [#20](https://github.com/kickstartDS/config/pull/20) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @babel/eslint-parser from 7.14.7 to 7.14.9 [#19](https://github.com/kickstartDS/config/pull/19) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @typescript-eslint/parser from 4.28.4 to 4.28.5 [#18](https://github.com/kickstartDS/config/pull/18) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- `@kickstartds/stylelint-config@2.0.0`
+  - build(deps): bump stylelint-config-prettier from 8.0.2 to 9.0.3 [#66](https://github.com/kickstartDS/config/pull/66) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Lukas Mestel ([@lmestel](https://github.com/lmestel))
+
+---
+
 # (Mon Jul 26 2021)
 
 #### 🐛 Bug Fix
