@@ -1,3 +1,28 @@
+# (Thu Feb 10 2022)
+
+#### 🐛 Bug Fix
+
+- `@kickstartds/stylelint-config@2.0.1`
+  - add stylelint rules for container queries & svg keywords [#99](https://github.com/kickstartDS/config/pull/99) ([@lmestel](https://github.com/lmestel))
+
+#### 🔩 Dependency Updates
+
+- `@kickstartds/eslint-config@1.0.2`
+  - build(deps): bump eslint-config-airbnb-base from 14.2.1 to 15.0.0 [#75](https://github.com/kickstartDS/config/pull/75) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+  - build(deps): bump eslint-plugin-import from 2.25.3 to 2.25.4 [#91](https://github.com/kickstartDS/config/pull/91) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+  - build(deps): bump @babel/core from 7.16.0 to 7.17.0 [#97](https://github.com/kickstartDS/config/pull/97) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- `@kickstartds/auto-config@1.0.3`
+  - build(deps-dev): bump auto from 10.32.3 to 10.32.6 [#93](https://github.com/kickstartDS/config/pull/93) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- `@kickstartds/stylelint-config@2.0.1`
+  - build(deps): bump stylelint-scss from 4.0.0 to 4.1.0 [#89](https://github.com/kickstartDS/config/pull/89) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Lukas Mestel ([@lmestel](https://github.com/lmestel))
+
+---
+
 # (Mon Dec 06 2021)
 
 #### 💥 Breaking Change

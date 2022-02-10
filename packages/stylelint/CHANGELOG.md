@@ -1,3 +1,24 @@
+# v2.0.1 (Thu Feb 10 2022)
+
+#### 🐛 Bug Fix
+
+- add stylelint rules for container queries & svg keywords [#99](https://github.com/kickstartDS/config/pull/99) ([@lmestel](https://github.com/lmestel))
+- feat: add stylelint rules ([@lmestel](https://github.com/lmestel))
+- build(deps): bump stylelint-scss from 4.0.0 to 4.1.0 ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🔩 Dependency Updates
+
+- build(deps): bump eslint-plugin-import from 2.25.3 to 2.25.4 [#91](https://github.com/kickstartDS/config/pull/91) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump auto from 10.32.3 to 10.32.6 [#93](https://github.com/kickstartDS/config/pull/93) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump stylelint-scss from 4.0.0 to 4.1.0 [#89](https://github.com/kickstartDS/config/pull/89) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Lukas Mestel ([@lmestel](https://github.com/lmestel))
+
+---
+
 # v2.0.0 (Mon Dec 06 2021)
 
 #### 💥 Breaking Change
