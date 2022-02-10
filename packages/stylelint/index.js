@@ -1,9 +1,6 @@
 module.exports = {
   customSyntax: "postcss-scss",
-  plugins: [
-    "stylelint-scss",
-    "stylelint-order",
-  ],
+  plugins: ["stylelint-scss", "stylelint-order"],
   extends: [
     "stylelint-config-standard-scss",
     "stylelint-config-sass-guidelines",
@@ -24,16 +21,12 @@ module.exports = {
     "scss/operator-no-newline-after": null,
     "scss/at-function-pattern": null,
     "scss/at-rule-conditional-no-parentheses": null,
+    "scss/at-rule-no-unknown": [true, { ignoreAtRules: ["container"] }],
     "max-nesting-depth": 6,
     "selector-max-compound-selectors": 5,
     "color-named": null,
     "selector-class-pattern": null,
-    "selector-no-qualifying-type": [
-      true,
-      {
-        ignore: ["attribute"],
-      },
-    ],
+    "selector-no-qualifying-type": [true, { ignore: ["attribute"] }],
     "comment-empty-line-before": null,
     "custom-property-pattern": null,
     "color-function-notation": null, // TBD
@@ -42,5 +35,6 @@ module.exports = {
     "keyframes-name-pattern": null, // TBD
     "declaration-empty-line-before": null,
     "rule-empty-line-before": null,
+    "value-keyword-case": ["lower", { camelCaseSvgKeywords: true }],
   },
 };
