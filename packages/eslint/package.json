@@ -10,8 +10,8 @@
     "eslint": "^7.28.0"
   },
   "dependencies": {
-    "@babel/core": "^7.14.6",
-    "@babel/eslint-parser": "^7.13.14",
+    "@babel/core": "^7.17.0",
+    "@babel/eslint-parser": "^7.17.0",
     "@typescript-eslint/eslint-plugin": "^4.28.1",
     "@typescript-eslint/parser": "^4.28.1",
     "eslint-config-airbnb-base": "^14.2.1",
