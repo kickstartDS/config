@@ -13,7 +13,7 @@
     "format": "prettier -w ."
   },
   "devDependencies": {
-    "auto": "^10.32.6",
+    "auto": "^10.34.1",
     "lerna": "^4.0.0",
     "prettier": "^2.5.0"
   },
