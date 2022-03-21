@@ -15,7 +15,7 @@
     "auto": "^10.29.3"
   },
   "dependencies": {
-    "@auto-it/npm": "^10.34.1",
+    "@auto-it/npm": "^10.36.5",
     "@auto-it/released": "^10.34.1"
   },
   "publishConfig": {
