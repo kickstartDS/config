@@ -15,7 +15,7 @@
   "devDependencies": {
     "auto": "^10.36.5",
     "lerna": "^4.0.0",
-    "prettier": "^2.6.0"
+    "prettier": "^2.6.1"
   },
   "auto": {
     "extends": "./packages/auto/package.json",
