@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@auto-it/npm": "^10.36.5",
-    "@auto-it/released": "^10.36.5"
+    "@auto-it/released": "^10.37.0"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org",
