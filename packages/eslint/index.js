@@ -35,9 +35,7 @@ module.exports = {
     ],
     "import/prefer-default-export": [0],
     "func-names": [0, "as-needed"],
-  },
-  globals: {
-    rm: "readonly",
+    "no-underscore-dangle": ["error", { allow: ["_ks"] }],
   },
   overrides: [
     {
