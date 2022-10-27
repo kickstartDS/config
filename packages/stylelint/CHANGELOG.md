@@ -1,3 +1,30 @@
+# v2.1.0 (Thu Oct 27 2022)
+
+#### 🐛 Bug Fix
+
+- chore: update stylelint peer dependency ([@lmestel](https://github.com/lmestel))
+- build(deps): bump stylelint-config-standard-scss from 4.0.0 to 5.0.0 ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump stylelint-scss from 4.2.0 to 4.3.0 ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build: update stylelint peer dep ([@lmestel](https://github.com/lmestel))
+- build(deps): bump stylelint-config-standard-scss from 3.0.0 to 4.0.0 ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump stylelint-scss from 4.1.0 to 4.2.0 ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🔩 Dependency Updates
+
+- build(deps): bump stylelint-config-standard-scss from 4.0.0 to 5.0.0 [#137](https://github.com/kickstartDS/config/pull/137) ([@dependabot[bot]](https://github.com/dependabot[bot]) [@lmestel](https://github.com/lmestel))
+- build(deps-dev): bump prettier from 2.6.2 to 2.7.1 [#131](https://github.com/kickstartDS/config/pull/131) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump stylelint-scss from 4.2.0 to 4.3.0 [#135](https://github.com/kickstartDS/config/pull/135) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump stylelint-config-standard-scss from 3.0.0 to 4.0.0 [#126](https://github.com/kickstartDS/config/pull/126) ([@dependabot[bot]](https://github.com/dependabot[bot]) [@lmestel](https://github.com/lmestel))
+- build(deps): bump @babel/core from 7.17.5 to 7.17.8 [#110](https://github.com/kickstartDS/config/pull/110) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump stylelint-scss from 4.1.0 to 4.2.0 [#111](https://github.com/kickstartDS/config/pull/111) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Lukas Mestel ([@lmestel](https://github.com/lmestel))
+
+---
+
 # v2.0.1 (Thu Feb 10 2022)
 
 #### 🐛 Bug Fix

@@ -1,3 +1,56 @@
+# (Thu Oct 27 2022)
+
+#### 🚀 Enhancement
+
+- `@kickstartds/eslint-config@1.1.0`
+  - remove global `rm` from & add `_ks` to eslint config [#169](https://github.com/kickstartDS/config/pull/169) ([@lmestel](https://github.com/lmestel))
+
+#### 🔩 Dependency Updates
+
+- build(deps-dev): bump lerna from 5.5.2 to 6.0.1 [#167](https://github.com/kickstartDS/config/pull/167) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump lerna from 5.5.1 to 5.5.2 [#163](https://github.com/kickstartDS/config/pull/163) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump lerna from 5.4.3 to 5.5.1 [#157](https://github.com/kickstartDS/config/pull/157) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump lerna from 5.4.2 to 5.4.3 [#153](https://github.com/kickstartDS/config/pull/153) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump lerna from 5.3.0 to 5.4.2 [#152](https://github.com/kickstartDS/config/pull/152) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump lerna from 5.1.1 to 5.3.0 [#150](https://github.com/kickstartDS/config/pull/150) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump prettier from 2.6.2 to 2.7.1 [#131](https://github.com/kickstartDS/config/pull/131) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump lerna from 5.0.0 to 5.1.1 [#129](https://github.com/kickstartDS/config/pull/129) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump lerna from 4.0.0 to 5.0.0 [#128](https://github.com/kickstartDS/config/pull/128) ([@dependabot[bot]](https://github.com/dependabot[bot]) [@lmestel](https://github.com/lmestel))
+- build(deps-dev): bump prettier from 2.6.1 to 2.6.2 [#114](https://github.com/kickstartDS/config/pull/114) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump prettier from 2.6.0 to 2.6.1 [#113](https://github.com/kickstartDS/config/pull/113) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump prettier from 2.5.1 to 2.6.0 [#108](https://github.com/kickstartDS/config/pull/108) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- `@kickstartds/eslint-config@1.1.0`
+  - build(deps): bump @babel/core from 7.19.1 to 7.19.6 [#168](https://github.com/kickstartDS/config/pull/168) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+  - build(deps): bump @babel/core from 7.18.13 to 7.19.1 [#162](https://github.com/kickstartDS/config/pull/162) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+  - build(deps): bump @babel/core from 7.18.10 to 7.18.13 [#154](https://github.com/kickstartDS/config/pull/154) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+  - build(deps): bump @babel/core from 7.18.9 to 7.18.10 [#151](https://github.com/kickstartDS/config/pull/151) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+  - build(deps): bump @babel/core from 7.18.5 to 7.18.9 [#145](https://github.com/kickstartDS/config/pull/145) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+  - build(deps): bump @babel/core from 7.18.2 to 7.18.5 [#130](https://github.com/kickstartDS/config/pull/130) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+  - build(deps): bump eslint-plugin-import from 2.25.4 to 2.26.0 [#116](https://github.com/kickstartDS/config/pull/116) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+  - build(deps): bump @babel/core from 7.17.8 to 7.18.2 [#125](https://github.com/kickstartDS/config/pull/125) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+  - build(deps): bump @babel/core from 7.17.5 to 7.17.8 [#110](https://github.com/kickstartDS/config/pull/110) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+  - build(deps): bump eslint-config-prettier from 8.4.0 to 8.5.0 [#103](https://github.com/kickstartDS/config/pull/103) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+  - build(deps): bump eslint-config-prettier from 8.3.0 to 8.4.0 [#102](https://github.com/kickstartDS/config/pull/102) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+  - build(deps): bump @babel/core from 7.17.0 to 7.17.5 [#101](https://github.com/kickstartDS/config/pull/101) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- `@kickstartds/auto-config@1.1.0`
+  - build(deps-dev): bump auto from 10.37.4 to 10.37.6 [#159](https://github.com/kickstartDS/config/pull/159) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+  - build(deps-dev): bump auto from 10.37.1 to 10.37.4 [#148](https://github.com/kickstartDS/config/pull/148) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+  - build(deps-dev): bump auto from 10.36.5 to 10.37.1 [#124](https://github.com/kickstartDS/config/pull/124) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+  - build(deps-dev): bump auto from 10.34.1 to 10.36.5 [#109](https://github.com/kickstartDS/config/pull/109) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+  - build(deps-dev): bump auto from 10.32.6 to 10.34.1 [#104](https://github.com/kickstartDS/config/pull/104) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- `@kickstartds/stylelint-config@2.1.0`
+  - build(deps): bump stylelint-config-standard-scss from 4.0.0 to 5.0.0 [#137](https://github.com/kickstartDS/config/pull/137) ([@dependabot[bot]](https://github.com/dependabot[bot]) [@lmestel](https://github.com/lmestel))
+  - build(deps): bump stylelint-scss from 4.2.0 to 4.3.0 [#135](https://github.com/kickstartDS/config/pull/135) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+  - build(deps): bump stylelint-config-standard-scss from 3.0.0 to 4.0.0 [#126](https://github.com/kickstartDS/config/pull/126) ([@dependabot[bot]](https://github.com/dependabot[bot]) [@lmestel](https://github.com/lmestel))
+  - build(deps): bump stylelint-scss from 4.1.0 to 4.2.0 [#111](https://github.com/kickstartDS/config/pull/111) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Lukas Mestel ([@lmestel](https://github.com/lmestel))
+
+---
+
 # (Thu Feb 10 2022)
 
 #### 🐛 Bug Fix
