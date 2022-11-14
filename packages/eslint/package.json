@@ -2,9 +2,9 @@
   "name": "@kickstartds/eslint-config",
   "version": "1.1.0",
   "description": "kickstartDS ESLint config",
-  "author": "ruhmesmeile GmbH <mail@ruhmesmeile.com> (https://ruhmesmeile.com)",
-  "homepage": "https://ruhmesmeile.com",
-  "license": "MIT",
+  "license": "(MIT OR Apache-2.0)",
+  "author": "Jonas Ulrich <jonas.ulrich@kickstartds.com> (https://www.kickstartDS.com/)",
+  "homepage": "https://www.kickstartDS.com",
   "main": "index.js",
   "peerDependencies": {
     "eslint": "^7.28.0"

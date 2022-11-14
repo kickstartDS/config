@@ -2,9 +2,9 @@
   "name": "@kickstartds/stylelint-config",
   "version": "2.1.0",
   "description": "kickstartDS Stylelint config",
-  "author": "ruhmesmeile GmbH <mail@ruhmesmeile.com> (https://ruhmesmeile.com)",
-  "homepage": "https://ruhmesmeile.com",
-  "license": "MIT",
+  "homepage": "https://www.kickstartDS.com",
+  "license": "(MIT OR Apache-2.0)",
+  "author": "Jonas Ulrich <jonas.ulrich@kickstartds.com> (https://www.kickstartDS.com/)",
   "main": "index.js",
   "peerDependencies": {
     "postcss": "^8.4.4",
