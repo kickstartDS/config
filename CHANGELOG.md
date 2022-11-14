@@ -1,3 +1,16 @@
+# (Mon Nov 14 2022)
+
+#### ⚠️ Pushed to `master`
+
+- `@kickstartds/auto-config@1.1.1`, `@kickstartds/eslint-config@1.1.1`, `@kickstartds/stylelint-config@2.1.1`
+  - chore: add correct LICENSE info to repository ([@julrich](https://github.com/julrich))
+
+#### Authors: 1
+
+- Jonas Ulrich ([@julrich](https://github.com/julrich))
+
+---
+
 # (Thu Oct 27 2022)
 
 #### 🚀 Enhancement

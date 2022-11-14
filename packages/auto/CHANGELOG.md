@@ -1,3 +1,15 @@
+# v1.1.1 (Mon Nov 14 2022)
+
+#### ⚠️ Pushed to `master`
+
+- chore: add correct LICENSE info to repository ([@julrich](https://github.com/julrich))
+
+#### Authors: 1
+
+- Jonas Ulrich ([@julrich](https://github.com/julrich))
+
+---
+
 # v1.1.0 (Thu Oct 27 2022)
 
 #### 🐛 Bug Fix
