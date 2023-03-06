@@ -14,7 +14,7 @@
     "format": "prettier -w ."
   },
   "devDependencies": {
-    "auto": "^10.42.2",
+    "auto": "^10.43.0",
     "lerna": "^6.0.1",
     "prettier": "^2.8.4"
   },
