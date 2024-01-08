@@ -1,3 +1,29 @@
+# (Mon Jan 08 2024)
+
+#### 🚀 Enhancement
+
+- `@kickstartds/auto-config@1.2.0`
+  - Update auto to version 11 [#257](https://github.com/kickstartDS/config/pull/257) ([@lmestel](https://github.com/lmestel))
+
+#### 🔩 Dependency Updates
+
+- build(deps-dev): bump prettier from 2.7.1 to 2.8.4 [#193](https://github.com/kickstartDS/config/pull/193) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- `@kickstartds/auto-config@1.2.0`
+  - build(deps-dev): bump auto from 10.42.2 to 10.45.0 [#222](https://github.com/kickstartDS/config/pull/222) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+  - build(deps-dev): bump auto from 10.37.6 to 10.42.2 [#202](https://github.com/kickstartDS/config/pull/202) ([@dependabot[bot]](https://github.com/dependabot[bot]) [@lmestel](https://github.com/lmestel))
+- `@kickstartds/eslint-config@1.2.0`
+  - build(deps): bump eslint-plugin-import from 2.26.0 to 2.27.5 [#189](https://github.com/kickstartDS/config/pull/189) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+  - build(deps): bump eslint-config-prettier from 8.5.0 to 8.6.0 [#181](https://github.com/kickstartDS/config/pull/181) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- `@kickstartds/stylelint-config@2.2.0`
+  - build(deps): bump stylelint-config-prettier from 9.0.3 to 9.0.5 [#191](https://github.com/kickstartDS/config/pull/191) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Lukas Mestel ([@lmestel](https://github.com/lmestel))
+
+---
+
 # (Mon Nov 14 2022)
 
 #### ⚠️ Pushed to `master`

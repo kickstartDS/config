@@ -1,3 +1,29 @@
+# v1.2.0 (Mon Jan 08 2024)
+
+#### 🚀 Enhancement
+
+- Update auto to version 11 [#257](https://github.com/kickstartDS/config/pull/257) ([@lmestel](https://github.com/lmestel))
+
+#### 🐛 Bug Fix
+
+- feat: update auto to version 11 ([@lmestel](https://github.com/lmestel))
+- build(deps): bump @auto-it/released from 10.42.2 to 10.45.0 ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @auto-it/npm from 10.42.2 to 10.45.0 ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @auto-it/npm from 10.37.6 to 10.42.2 ([@lmestel](https://github.com/lmestel))
+- build(deps): bump @auto-it/released from 10.37.6 to 10.42.2 ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🔩 Dependency Updates
+
+- build(deps-dev): bump auto from 10.42.2 to 10.45.0 [#222](https://github.com/kickstartDS/config/pull/222) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump auto from 10.37.6 to 10.42.2 [#202](https://github.com/kickstartDS/config/pull/202) ([@dependabot[bot]](https://github.com/dependabot[bot]) [@lmestel](https://github.com/lmestel))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Lukas Mestel ([@lmestel](https://github.com/lmestel))
+
+---
+
 # v1.1.2 (Mon Nov 14 2022)
 
 #### ⚠️ Pushed to `master`

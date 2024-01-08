@@ -1,3 +1,19 @@
+# v2.2.0 (Mon Jan 08 2024)
+
+#### 🐛 Bug Fix
+
+- build(deps): bump stylelint-config-prettier from 9.0.3 to 9.0.5 ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🔩 Dependency Updates
+
+- build(deps): bump stylelint-config-prettier from 9.0.3 to 9.0.5 [#191](https://github.com/kickstartDS/config/pull/191) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 1
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+
+---
+
 # v2.1.2 (Mon Nov 14 2022)
 
 #### ⚠️ Pushed to `master`

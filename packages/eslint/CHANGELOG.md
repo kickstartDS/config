@@ -1,3 +1,23 @@
+# v1.2.0 (Mon Jan 08 2024)
+
+#### 🐛 Bug Fix
+
+- build(deps): bump eslint-plugin-import from 2.26.0 to 2.27.5 ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump eslint-config-prettier from 8.5.0 to 8.6.0 ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🔩 Dependency Updates
+
+- build(deps): bump eslint-plugin-import from 2.26.0 to 2.27.5 [#189](https://github.com/kickstartDS/config/pull/189) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump stylelint-config-prettier from 9.0.3 to 9.0.5 [#191](https://github.com/kickstartDS/config/pull/191) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump prettier from 2.7.1 to 2.8.4 [#193](https://github.com/kickstartDS/config/pull/193) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump eslint-config-prettier from 8.5.0 to 8.6.0 [#181](https://github.com/kickstartDS/config/pull/181) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 1
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+
+---
+
 # v1.1.2 (Mon Nov 14 2022)
 
 #### ⚠️ Pushed to `master`
