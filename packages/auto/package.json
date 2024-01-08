@@ -12,11 +12,11 @@
     ]
   },
   "peerDependencies": {
-    "auto": "^10.29.3"
+    "auto": "^11"
   },
   "dependencies": {
-    "@auto-it/npm": "^10.45.0",
-    "@auto-it/released": "^10.45.0"
+    "@auto-it/npm": "^11",
+    "@auto-it/released": "^11"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org",
